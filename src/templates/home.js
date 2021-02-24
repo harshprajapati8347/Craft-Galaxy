@@ -30,10 +30,9 @@ const ServiceBox = ({title, children}) => (
         <div>
             <h4 className="font-semibold">{title}</h4>
             <p className="mt-2 leading-7 w-full text-sm md:text-base lg:text-lg">
-                Lorem ipsum, dolor sit amet consectetur 
-                adipisicing elit. Voluptates, ea. Perferendis 
-                corrupti reiciendis nesciunt rerum velit autem 
-                unde numquam nisi
+                A country that holds heavy potential & skilled brains but lacks in utilizing them,
+we (craft galaxy) want to create a platform, a company to get paid for skills for the development of tribals,
+that hold heavy skills and yeat are not financially evolved.
             </p>
         </div>
     </div>
