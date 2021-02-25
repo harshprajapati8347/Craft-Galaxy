@@ -5,7 +5,7 @@ import Navbar from './Navbar'
 
 const Footer = () => (
     <footer className="bg-gray-800">
-        <div className="tw-container text-center py-6 text-sm md:text-base text-white tracking-widest">© 2020 Digital Comfort All rights reserved</div>
+        <div className="tw-container text-center py-6 text-sm md:text-base text-white tracking-widest">© 2021 Craft Galaxy All rights reserved</div>
     </footer>
 )
 
