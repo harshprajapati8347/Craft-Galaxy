@@ -2,8 +2,6 @@
 
 An eCommerce mockup of a furniture shop developed with ReactJS.
 
-Demo: https://ecommerce.brant.work/
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
